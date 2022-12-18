@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = gdrive://1rNr65eRkNkjC56RXXkY1vVYkAn7NWHWj
